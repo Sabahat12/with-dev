@@ -8,7 +8,7 @@ int main() {
     cin >> subject1;
     cout << "Enter marks for subject 2: ";
     cin >> subject3;
-
+cout<<"";
   
     if (subject1 >= 40 || subject2 >= 40) {
         cout << "Passed" << endl;
